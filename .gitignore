@@ -1,0 +1,11 @@
+# Large model files
+cnn_wound_model.h5
+final_model.h5
+
+# Temporary files
+temp_uploaded_image.jpg
+
+# Environment & cache
+venv/
+__pycache__/
+*.pyc
