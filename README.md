@@ -23,9 +23,3 @@ This project predicts skin graft survival by combining clinical parameters and w
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-
-👩‍💻 Contributors
-
-Vanshika Shukla
-Rajnandni Singh
-```
